@@ -12,8 +12,6 @@
             "ByJG\\Session\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "repositories": {
         "jwt-wrapper": {
 		"type": "vcs",
