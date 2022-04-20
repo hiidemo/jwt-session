@@ -1,5 +1,5 @@
 {
-    "name": "byjg/jwt-session",
+    "name": "hiidemo/jwt-session",
     "description": "JwtSession is a PHP session replacement. Instead of use FileSystem, just use JWT TOKEN. The implementation following the SessionHandlerInterface.",
     "authors": [
         {
@@ -16,9 +16,9 @@
     "prefer-stable": true,
     "repositories": [
         {
-			"type": "vcs",
-			"url": "https://github.com/hiidemo/jwt-wrapper"
-		}
+		"type": "vcs",
+		"url": "https://github.com/hiidemo/jwt-wrapper"
+	}
     ],
     "require": {
         "php": ">=5.6.0",
