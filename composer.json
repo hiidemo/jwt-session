@@ -14,12 +14,12 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "repositories": [
+    "repositories": {
         "jwt-wrapper": {
 		"type": "vcs",
 		"url": "https://github.com/hiidemo/jwt-wrapper"
 	}
-    ],
+    },
     "require": {
         "php": ">=5.6.0",
         "hiidemo/jwt-wrapper": "dev-master"
