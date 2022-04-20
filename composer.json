@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
-        {
+        "jwt-wrapper": {
 		"type": "vcs",
 		"url": "https://github.com/hiidemo/jwt-wrapper"
 	}
